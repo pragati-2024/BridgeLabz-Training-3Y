@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.Scanner;
+
 public class multidemtionalarray{
     public static void main(String[] args) {
         // Working with Multi-Dimensional Arrays. Write a Java program to create a 2D Array and Copy the 2D Array into a single dimension array
