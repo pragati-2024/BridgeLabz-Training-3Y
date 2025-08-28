@@ -1,14 +1,5 @@
 public class music{
     public static void main(String[] args) {
-        // Music Playlist Manager (array + switch-case + while loop)
-        // A music app has a playlist stored in a String[] songs = {"Song1", "Song2", "Song3"}.
-        //  Write a program that:
-        // Show options using switch-case:
-        // Play all songs
-        // Play a song by index
-        // Search for a song by name
-        // Exit
-        // Use a while loop so that user can perform multiple actions until Exit.
         String[] songs = {"Song1", "Song2", "Song3"};
         int option = 0;
         while (option != 4) {

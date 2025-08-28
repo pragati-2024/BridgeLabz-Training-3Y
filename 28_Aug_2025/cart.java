@@ -1,13 +1,6 @@
 import java.util.*;
 public class cart{
     public static void main(String[] args){
-        //Online Shopping Cart System
-        // Problem Statement: Write a program to simulate online shopping:
-        // Problem Statement: Write a program to simulate online shopping:Show product menu using switch-case.
-        // Let customer add n items using a for loop.
-        // If total amount > 5000 → apply discount using if-else.
-        // Use while loop to handle multiple customers.
-        // Ensure customer adds at least one product using do-while
         Scanner sc = new Scanner(System.in);
 
         System.out.println("product menu");
