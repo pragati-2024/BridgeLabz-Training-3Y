@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class fcusingnested {
+class FcusingNested {
     public static String[] frequencyCount(String text) {
         char[] chars = text.toCharArray();
         int[] freq = new int[chars.length];

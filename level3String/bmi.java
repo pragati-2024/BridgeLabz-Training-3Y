@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class bmi {
+class Bmi {
     public static String[][] calculateBMI(String[][] hw) {
         String[][] result = new String[hw.length][4];
         for (int i = 0; i < hw.length; i++) {

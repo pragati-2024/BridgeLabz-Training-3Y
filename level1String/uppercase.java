@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class uppercase {
+public class UpperCase {
 
     // Method 1: Convert string to uppercase using charAt() and ASCII logic
     public static String customToUpperCase(String str) {

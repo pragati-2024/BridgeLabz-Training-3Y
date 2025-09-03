@@ -1,4 +1,4 @@
-public class vowelconson {
+public class VowelConson {
     public static void main(String[] args) {
         String str = "Artificial Intelligence";
         str = str.toLowerCase();

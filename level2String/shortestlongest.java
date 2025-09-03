@@ -1,4 +1,4 @@
-public class shortestlongest {
+public class ShortestLongest {
     public static void main(String[] args) {
         String sentence = "Java is a powerful programming language";
         String[] words = sentence.split(" ");

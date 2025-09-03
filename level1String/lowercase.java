@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lowercase {
+public class LowerCase {
 
     // Method 1: Convert string to lowercase using charAt() and ASCII logic
     public static String customToLowerCase(String str) {

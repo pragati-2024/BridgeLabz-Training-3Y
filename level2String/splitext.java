@@ -1,4 +1,4 @@
-public class splitext {
+public class SpliText {
     public static void main(String[] args) {
         String text = "Java makes programming easier";
 

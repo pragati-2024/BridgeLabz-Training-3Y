@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class fcusingunique {
+class FcusingUnique {
     public static int getLength(String text) {
         int len = 0;
         try {

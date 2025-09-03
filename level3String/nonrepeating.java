@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class nonrepeating {
+class NonRepeating {
     public static char firstNonRepeating(String text) {
         int[] freq = new int[256];
         for (int i = 0; i < text.length(); i++) {

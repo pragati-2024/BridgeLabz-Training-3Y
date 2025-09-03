@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class cpm {
+public class Cpm {
     // Method to compare two strings using charAt()
     public static boolean compareUsingCharAt(String s1, String s2) {
         // First check length

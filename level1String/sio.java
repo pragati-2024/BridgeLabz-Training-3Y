@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sio {
+public class Sio {
     public static void generateException(String text) {
         System.out.println("\n--- Generating StringIndexOutOfBoundsException ---");
         System.out.println("Character at index 10: " + text.charAt(10));

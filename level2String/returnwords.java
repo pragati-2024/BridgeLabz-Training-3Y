@@ -1,4 +1,4 @@
-public class returnwords {
+public class ReturnWords {
     // Method that returns word count
     public static int countWords(String sentence) {
         if (sentence == null || sentence.isEmpty()) {

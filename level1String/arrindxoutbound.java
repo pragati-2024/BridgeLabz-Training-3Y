@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class arrindxoutbound {
+public class ArrindxoutBound {
     // Method 1: Exception generate karna (without handling)
     public static void generateException(String[] names) {
         System.out.println("\n--- Generating ArrayIndexOutOfBoundsException ---");

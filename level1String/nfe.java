@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class nfe {
+public class Nfe{
 
     // Method 1: Generate NumberFormatException without handling
     public static void generateException(String text) {

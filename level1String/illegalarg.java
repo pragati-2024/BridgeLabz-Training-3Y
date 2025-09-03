@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class illegalarg {
+public class IllegalArg {
     public static void generateException(String text) {
         System.out.println("\n--- Generating IllegalArgumentException ---");
         System.out.println(text.substring(5, 2));

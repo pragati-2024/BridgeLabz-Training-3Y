@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class substringg {
+public class Substringg {
 
     // Method 1: Create substring manually using charAt()
     public static String customSubstring(String str, int start, int end) {

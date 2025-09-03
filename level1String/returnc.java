@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class returnc {
+public class ReturnC {
 
     // Method 1: Convert String to char[] without using toCharArray()
     public static char[] customToCharArray(String str) {
