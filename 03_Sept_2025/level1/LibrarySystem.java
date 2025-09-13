@@ -1,4 +1,3 @@
-// Book.java
 class Book {
     String title;
     String author;
